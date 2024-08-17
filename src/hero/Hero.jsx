@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="flex flex-col justify-center items-center gap-4">
         <img src={myPhoto} className="w-28 h-28 object-cover rounded-full" />
         <span className="opacity-65 flex items-center">
-          Hi i'm Hastya<span className="text-xl"> &reg; </span>
+          Hi i'm Hastyarrrrr<span className="text-xl"> &reg; </span>
           &#770; __ &#770;
         </span>
 
