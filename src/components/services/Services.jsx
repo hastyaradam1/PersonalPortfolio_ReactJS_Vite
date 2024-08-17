@@ -17,39 +17,7 @@ const Services = () => {
             What can i do for You
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center gap-5 py-10">
-          <div className="col-span-1">
-            <Cards
-              animationType={"fade-right"}
-              image={webDevelopment}
-              title={"Web Development"}
-              description={
-                "We create visually stunning and user-friendly websites that align with your brand and goals."
-              }
-            />
-          </div>
-
-          <div className="col-span-1">
-            <Cards
-              animationType={"fade"}
-              image={fast}
-              title={"Optimize for Success"}
-              description={
-                "Speed and reliability, guaranteed & High-performance backend solutions."
-              }
-            />
-          </div>
-          <div className="col-span-1 md:col-span-2 lg:col-span-1">
-            <Cards
-              animationType={"fade-left"}
-              image={ux}
-              title={"UI/UX"}
-              description={
-                "Focused on user-centered design to create products that are functional and emotionally engaging."
-              }
-            />
-          </div>
-        </div>
+        <Cards />
       </div>
     </>
   );
