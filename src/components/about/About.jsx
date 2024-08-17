@@ -41,29 +41,20 @@ const About = () => {
               </span>
             </h1>
             <p className="text-justify text-sm md:text-lg text-zinc-300">
-              Graduated from University Of Raparin, at the Computer Science
-              Department, for Academic Year (2021-2022).
+              With a strong foundation in Computer Science, I graduated top of
+              my class from the University of Raparin in the Academic Year
+              2021-2022. Currently, I'm an Assistant at a Private Computer
+              Institute in Rania, where I share my expertise and love for
+              technology with the next generation of developers.
             </p>
-            <p className="text-sm md:text-md text-zinc-300/70">
-              Right now i'm an Assistant from a Private Institute of Computer at
-              Rania.
-            </p>
-            <p className="text-sm">
-              I'm 1 <sup>st</sup> of my Entire class About 4 years.
-            </p>
-            {/* <p className="text-orange-100 text-sm">
-              I want to working as a Freelancer and working for Huge Companies .
-            </p> */}
-            <p className="text-zinc-300/70 text-sm text-justify">
-              {" "}
-              My journey in tech began with starts of year (2014), and since
-              then, I’ve been dedicated to pushing the boundaries of what’s
-              possible in the digital world. I thrive on turning complex
-              problems into elegant solutions, and I believe in the power of
-              clean, efficient code to drive meaningful user experiences.
-              Whether it’s developing a dynamic frontend with React or building
-              robust backend systems with Laravel, I approach every project with
-              enthusiasm and a commitment to excellence.
+            <p className="text-justify text-sm md:text-lg text-zinc-300">
+              My tech journey began in 2014, and since then, I've been driven by
+              the desire to innovate and create impactful digital experiences. I
+              specialize in turning complex challenges into streamlined
+              solutions through clean, efficient code. Whether crafting dynamic
+              user interfaces with React or building scalable backend systems
+              with Laravel, I approach each project with enthusiasm and a
+              relentless pursuit of excellence.
             </p>
           </div>
         </div>

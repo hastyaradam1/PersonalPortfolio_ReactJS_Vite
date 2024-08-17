@@ -15,7 +15,7 @@ const WhatPeopleSaying = () => {
             name={"Ms.Harme"}
             image={women2IMG}
             description={
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt commodi,et placeat nulla, ea consequatur libero iure ad molestiae nam veniam nisi! Aspernatur facere amet similique at itaque, natus eaque."
+              "Working with Your Company has been a game-changer for us. Their user-centered design approach turned our complex ideas into a sleek, intuitive platform that our customers love. The team's creativity and attention to detail were instrumental in delivering a product that not only meets but exceeds our expectations."
             }
             rate={5}
             animationType={"fade-down"}
@@ -25,7 +25,7 @@ const WhatPeopleSaying = () => {
             name={"Mr.Hunar"}
             image={menIMG}
             description={
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt commodi,et placeat nulla, ea consequatur libero iure ad molestiae nam veniam nisi! Aspernatur facere amet similique at itaque, natus eaque."
+              "Your Company brought our vision to life with remarkable skill and precision. Their dedication to understanding our needs and translating them into an engaging and functional design was outstanding. We've received fantastic feedback from our users, thanks to their exceptional work."
             }
             rate={3}
             animationType={"fade-up"}
@@ -35,7 +35,7 @@ const WhatPeopleSaying = () => {
             name={"Ms.Harme"}
             image={women2IMG}
             description={
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt commodi,et placeat nulla, ea consequatur libero iure ad molestiae nam veniam nisi! Aspernatur facere amet similique at itaque, natus eaque."
+              "The collaboration with Company was seamless from start to finish. They took the time to truly understand our brand and goals, resulting in a website that perfectly captures our message. Their innovative solutions and prompt support have made a significant positive impact on our online presence."
             }
             rate={2}
             animationType={"fade-left"}

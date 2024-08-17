@@ -11,7 +11,7 @@ const Services = () => {
   }, []);
   return (
     <>
-      <div className="text-white max-w-6xl mx-auto  mt-10" id="services">
+      <div className="text-white max-w-6xl mx-auto mt-10" id="services">
         <div className="text-center mx-auto py-9 lg:py-6 text-zinc-300/85">
           <p className="text-4xl md:text-5xl font-bold">
             What can i do for You
@@ -24,7 +24,7 @@ const Services = () => {
               image={webDevelopment}
               title={"Web Development"}
               description={
-                "Building best Websites with Best and Most powerFull Library."
+                "We create visually stunning and user-friendly websites that align with your brand and goals."
               }
             />
           </div>
@@ -33,9 +33,9 @@ const Services = () => {
             <Cards
               animationType={"fade"}
               image={fast}
-              title={"Fast And Improve"}
+              title={"Optimize for Success"}
               description={
-                "We are provide Best security and Fast Backend Service."
+                "Speed and reliability, guaranteed & High-performance backend solutions."
               }
             />
           </div>
@@ -44,7 +44,9 @@ const Services = () => {
               animationType={"fade-left"}
               image={ux}
               title={"UI/UX"}
-              description={"Make Your website having a Good UI with Us."}
+              description={
+                "Focused on user-centered design to create products that are functional and emotionally engaging."
+              }
             />
           </div>
         </div>

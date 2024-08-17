@@ -12,7 +12,7 @@ const Hero = () => {
 
         <div className="w-auto md:w-6/12 text-center">
           <h2 className="font-semibold p-4 text-4xl md:text-5xl lg:text-6xl bg-gradient-to-r from-pink-500 to-yellow-500 bg-clip-text text-transparent ">
-            Designing Tomorrow's Websites with Today's Innovations
+            Transforming Ideas into Stunning Digital Realities
           </h2>
         </div>
       </div>
